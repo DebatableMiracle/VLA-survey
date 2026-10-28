@@ -1,11 +1,5 @@
 # VLA_survey
 
-Companion repository for the survey **"From Seeing to Acting: A Survey of Vision-Language and Vision-Language-Action Models for Automated and Connected Vehicles"** by A. Attri, A. Verma, and G. Thandavarayan (under review).
-
-The repository has two parts:
-
-- [`REFERENCES.md`](REFERENCES.md) lists all 157 papers, standards, and reports cited in the survey, in citation order, with links.
-- [`survey_code/`](survey_code) holds the code, prompts, sampled items, and raw model outputs of the case study in Section VI, together with tools that check the counts in Section III.
 
 ## Case study (Section VI)
 
